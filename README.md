@@ -1,1 +1,1 @@
-# mineGame
+[LINK](https://vanyalarin.github.io/mineGame/)
